@@ -1,0 +1,44 @@
+section{
+    height: 90%;
+    clear: both;
+    overflow: auto;
+}
+.langue{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-right: 12vw;
+    margin-top: 5vw;
+    cursor: pointer;
+    text-decoration: none;
+    color: #707070;
+    padding-left: 2vw;
+
+}
+.langue:hover{
+    color: gold;
+}
+.about{
+    font-style: italic;
+    font-family: Didot;
+    color: #707070;
+    text-align: center;
+    line-height: 18vw;
+    padding: 9vw;
+    font-size: 7vw;
+}
+
+@media only screen and (min-width: 961px){
+    html,body{
+        height: auto;
+    }
+    .about {
+        font-style: italic;
+        font-family: Didot;
+        color: #707070;
+        text-align: center;
+        line-height: 24Vh;
+        padding:0 20vw 19vh;
+        font-size: 3vw;
+    }
+}

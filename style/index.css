@@ -1,0 +1,62 @@
+
+/*Section*/
+section{
+    width: 70%;
+    height: 70%;
+}
+/*Banner*/
+.banner{
+    height: 100%;
+    background-image: url("../img/home-pic.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.msg-banner{
+
+    opacity: 0.8;
+    height: 50%;
+    text-align: center;
+    line-height: 8vh;
+    font-family: didot;
+    font-style: italic;
+    font-size: 6vw;
+    width: 70%;
+    position: absolute;
+    top: 40%;
+    height: 45%;
+    background-color: aliceblue;
+
+}
+.bold-text{
+    font-weight: bold;
+    font-style: normal;
+}
+@media only screen and (min-width: 961px) {
+    section {
+        width: 100%;
+        height: 70%;
+    }
+    .banner {
+        height: 100%;
+        background-image: url(../img/home-pic.png);
+        background-repeat: no-repeat;
+        background-position: 10%;
+        background-size: contain;
+        padding-left: 50%;
+    }
+    .msg-banner {
+        opacity: 0.8;
+        height: 50%;
+        text-align: center;
+        line-height: 10vh;
+        font-family: didot;
+        font-style: italic;
+        font-size: 3vw;
+        width: 40%;
+        position: absolute;
+        top: 20%;
+        /* height: 45%; */
+        /* background-color: aliceblue; */
+    }
+}

@@ -1,0 +1,27 @@
+h2{
+    color: #707070;
+    font-family: Didot;
+    font-style: italic;
+    font-size: 5vw;
+    text-align: center;
+    padding: 3vw 0;
+}
+.scroll-down-icon{
+    font-size: 3vw;
+    margin: 5vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+@media only screen and (min-width: 961px){
+    html,body{
+        height: auto;
+    }
+    .player{
+        margin: 0% 10% 6%;
+    }
+    h2{
+        font-size: 3vw;
+    }
+}
