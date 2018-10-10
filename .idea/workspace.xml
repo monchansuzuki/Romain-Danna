@@ -2,92 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6a2e826-559a-4db0-bdf8-260bf6aef61b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/img/catalogue/img10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/catalogue/img11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/catalogue/img12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/catalogue/img13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/catalogue/img14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/catalogue/img15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/catalogue/img16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/catalogue/img17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/catalogue/img18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/catalogue/img19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/catalogue/img20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/catalogue/img21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/catalogue/img22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/catalogue/img23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/catalogue/img24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/catalogue/img25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/catalogue/img26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/catalogue/img27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/catalogue/img28.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/catalogue/img29.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/catalogue/img30.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/catalogue/img31.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/catalogue/img5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/catalogue/img6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/catalogue/img7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/catalogue/img8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/catalogue/img9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/home2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/home3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/magazine/img10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/magazine/img11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/magazine/img12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/magazine/img13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/magazine/img14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/magazine/img15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/magazine/img16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/magazine/img17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/magazine/img18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/magazine/img19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/magazine/img20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/magazine/img21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/magazine/img22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/magazine/img23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/magazine/img24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/magazine/img25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/magazine/img26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/magazine/img27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/magazine/img3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/magazine/img4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/magazine/img5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/magazine/img6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/magazine/img7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/magazine/img8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/magazine/img9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/promotion/img10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/promotion/img11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/promotion/img12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/promotion/img13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/promotion/img14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/promotion/img15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/promotion/img16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/promotion/img4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/promotion/img5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/promotion/img6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/promotion/img7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/promotion/img8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/promotion/img9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/imageLoad.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/international.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about-jp.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-jp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/catalogue/img1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/catalogue/img1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/catalogue/img2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/catalogue/img2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/catalogue/img3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/catalogue/img3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/catalogue/img4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/catalogue/img4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/magazine/img1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/magazine/img1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/magazine/img2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/magazine/img2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/promotion/img1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/promotion/img1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/promotion/img2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/promotion/img2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/promotion/img3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/promotion/img3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/united-kingdom.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/uk.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model.html" beforeDir="false" afterPath="$PROJECT_DIR$/model.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/about.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/model.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/model.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/home3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/home3.jpg" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -116,7 +32,7 @@
       <file leaf-file-name="imageLoad.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/imageLoad.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
+            <state relative-caret-position="525">
               <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
             </state>
           </provider>
@@ -253,25 +169,24 @@
       <workItem from="1538381806652" duration="64000" />
       <workItem from="1538567907919" duration="12122000" />
       <workItem from="1538714016077" duration="1389000" />
-      <workItem from="1539138821574" duration="8771000" />
+      <workItem from="1539138821574" duration="9479000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22711000" />
+    <option name="totallyTimeSpent" value="23419000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32965517" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -562,7 +477,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/imageLoad.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
+        <state relative-caret-position="525">
           <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
         </state>
       </provider>
