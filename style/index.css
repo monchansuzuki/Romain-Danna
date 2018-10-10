@@ -7,25 +7,26 @@ section{
 /*Banner*/
 .banner{
     height: 100%;
-    background-image: url("../img/home-pic.png");
+    background-image: url("../img/home3.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 .msg-banner{
 
+    color: white;
+    /* background-color: black; */
     opacity: 0.8;
-    height: 50%;
+    height: 27%;
     text-align: center;
-    line-height: 8vh;
+    line-height: 1.6;
     font-family: didot;
     font-style: italic;
     font-size: 6vw;
     width: 70%;
     position: absolute;
-    top: 40%;
-    height: 45%;
-    background-color: aliceblue;
+    top: 58%;
+    background-color: #6c6c6c;
 
 }
 .bold-text{
@@ -39,24 +40,24 @@ section{
     }
     .banner {
         height: 100%;
-        background-image: url(../img/home-pic.png);
+        background-image: url(../img/home2.png);
         background-repeat: no-repeat;
         background-position: 10%;
         background-size: contain;
         padding-left: 50%;
     }
     .msg-banner {
-        opacity: 0.8;
-        height: 50%;
         text-align: center;
-        line-height: 10vh;
+        line-height: 1.6;
         font-family: didot;
         font-style: italic;
         font-size: 3vw;
-        width: 40%;
+        width: 46%;
         position: absolute;
-        top: 20%;
-        /* height: 45%; */
-        /* background-color: aliceblue; */
+        top: 36%;
+        height: 36%;
+        background-color: #697f89;
+        color: #bcccd4;
+        box-shadow: 6px 9px #5c7079;
     }
 }

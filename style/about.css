@@ -23,9 +23,10 @@ section{
     font-family: Didot;
     color: #707070;
     text-align: center;
-    line-height: 18vw;
-    padding: 9vw;
-    font-size: 7vw;
+    line-height: 1.6;
+    padding: 2vh 1vw;
+    font-size: 6vw;
+
 }
 
 @media only screen and (min-width: 961px){
@@ -37,8 +38,8 @@ section{
         font-family: Didot;
         color: #707070;
         text-align: center;
-        line-height: 24Vh;
-        padding:0 20vw 19vh;
+        line-height: 1.6;
+        padding:0 7vw 5vh;
         font-size: 3vw;
     }
 }
