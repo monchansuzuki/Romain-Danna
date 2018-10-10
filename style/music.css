@@ -1,5 +1,5 @@
 h2{
-    color: #707070;
+    color: black;
     font-family: Didot;
     font-style: italic;
     font-size: 5vw;
@@ -14,14 +14,46 @@ h2{
     justify-content: space-between;
     align-items: center;
 }
+#see-more{
+    cursor: pointer; font-weight: bold;font-style: normal; color: blue;
+}
+#see-more:hover{
+    color: gold;
+}
+.about{
+    font-style: italic;
+    font-family: Didot;
+    color: black;
+    text-align: center;
+    line-height: 1.6;
+    padding: 2vh 1vw;
+    font-size: 3vw;
+    overflow: scroll;
+
+}
+#music-content{
+    overflow: scroll;
+}
 @media only screen and (min-width: 961px){
     html,body{
         height: auto;
     }
+
+    h2{
+        font-size: 3vw;
+    }
     .player{
         margin: 0% 10% 6%;
+        width: 100%;
+        background-image: url("../img/bg-actor.png");
+        background-size: unset;
     }
-    h2{
+    .about {
+        font-style: italic;
+        font-family: Didot;
+        text-align: center;
+        line-height: 1.6;
+        padding:0 7vw 5vh;
         font-size: 3vw;
     }
 }
