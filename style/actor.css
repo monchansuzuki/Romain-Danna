@@ -5,6 +5,27 @@ section{
     overflow: auto;
 }
 
+#my-video{
+    width: 90%;
+    display: block;
+    margin: auto;
+}
+.main-video{
+    position: relative;
+}
+.btn{
+    background-color: rgb(255, 200, 200);
+    position: absolute;
+    top: 26%;
+    width: 40%;
+    height: 50%;
+    font-family: Didot;
+    font-weight: bold;
+    left: 30%;
+    color: black;
+    border-radius: 50%;
+
+}
 h2{
     font-style: italic;
     font-family: Didot;
@@ -22,6 +43,9 @@ h2{
     }
     .video{
         margin: 1% 10%;
+    }
+    .video-first{
+
     }
     h2{
         font-size: 3vw;
