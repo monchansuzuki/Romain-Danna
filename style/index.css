@@ -17,16 +17,17 @@ section{
     color: white;
     /* background-color: black; */
     opacity: 0.8;
-    height: 27%;
+    height: 18%;
     text-align: center;
     line-height: 1.6;
     font-family: didot;
     font-style: italic;
-    font-size: 6vw;
+    font-size: 4vw;
     width: 70%;
     position: absolute;
-    top: 58%;
+    top: 67%;
     background-color: #6c6c6c;
+    overflow: auto;
 
 }
 .bold-text{
