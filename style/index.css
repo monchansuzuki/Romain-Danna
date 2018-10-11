@@ -17,17 +17,16 @@ section{
     color: white;
     /* background-color: black; */
     opacity: 0.8;
-    height: 18%;
     text-align: center;
     line-height: 1.6;
-    font-family: didot;
+    font-family: 'Josefin Slab', serif;
     font-style: italic;
-    font-size: 4vw;
+    font-size: 1.3em;
     width: 70%;
     position: absolute;
-    top: 67%;
+    top: 63%;
     background-color: #6c6c6c;
-    overflow: auto;
+    overflow: hidden;
 
 }
 .bold-text{
@@ -50,15 +49,14 @@ section{
     .msg-banner {
         text-align: center;
         line-height: 1.6;
-        font-family: didot;
-        font-style: italic;
-        font-size: 3vw;
-        width: 46%;
+        font-family: 'Josefin Slab', serif;
+        font-size: 1.3em;
+        width: 32%;
         position: absolute;
-        top: 36%;
-        height: 36%;
+        top: 30%;
         background-color: #697f89;
-        color: #bcccd4;
+        color: #eee;
         box-shadow: 6px 9px #5c7079;
+        left: 60%;
     }
 }
