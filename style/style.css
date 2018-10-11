@@ -29,6 +29,9 @@ header{
     width: 100%;
     display: flex;
     flex-direction: column;
+    background-color: #ffc107;
+    box-shadow: 4px 4px 16px -2px rgba(0,0,0,0.75);
+
 }
 .navbar{
     display: flex;
@@ -82,15 +85,18 @@ header{
 
 /*Footer*/
 footer{
-    background-color: khaki;
+    background-color: #fff350;
     width: 100%;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: gainsboro;
     padding: 1vh;
     position: relative;
-    bottom: 0
+    bottom: 0;
+    -webkit-box-shadow: 4px 4px 34px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: 4px 4px 34px -4px rgba(0,0,0,0.75);
+    box-shadow: 4px 4px 34px -4px rgba(0,0,0,0.75);
+
 }
 .social-img{
     height: 6vh;
